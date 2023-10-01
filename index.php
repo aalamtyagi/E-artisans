@@ -48,11 +48,11 @@ include("includes/main.php");
         </div>
 
         <div class="developer">
-          Developed by Mukul Dhiman
+          Developed by Aalam Geer
         </div>
 
         <div class="designby">
-          Design by Mukul Dhiman
+          Design by Aalam Geer
         </div>
 
       </div>
