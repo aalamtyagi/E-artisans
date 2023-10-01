@@ -7,11 +7,11 @@
 			</div>
 
 			<div class="developer">
-				Dev by Mukul Dhiman
+				Dev by Aalam Geer
 			</div>
 
 			<div class="designby">
-				Design by Mukul Dhiman
+				Design by Aalam Geer
 			</div>
 		</div>
 	</div>
